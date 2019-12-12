@@ -1,0 +1,4 @@
+# jemdoc: menu{MENU}{software.html}, nofooter  
+== R packages
+
+. [https://CRAN.R-project.org/package=TRES /TRES/]: Tensor Regression with Envelope Structure and Three Generic Envelope Estimation Approaches. (co-author, maintainer).

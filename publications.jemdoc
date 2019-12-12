@@ -1,0 +1,4 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Recent Publications
+
+. Zeng, J., Wang, W. and Zhang, X. \"TRES: an R package for tensor regression\". Journal of Statistical Software (Under Revision).
