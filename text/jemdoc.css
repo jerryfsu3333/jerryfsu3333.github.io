@@ -1,15 +1,14 @@
 /* Default css file for jemdoc. */
 
 table#tlayout {
-	border: none;
-	padding-right: 20em;
-	border-collapse: separate;
-    /* background: white; */
+    border: none;
+    border-collapse: separate;
+    background: white;
 }
 
 body {
 	background: #f6f6f6;
-	background-image: url("photos/bg.jpg");
+	background-image: url('img_girl.jpg');
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
@@ -23,7 +22,6 @@ body {
 	padding-right: 8px;
 	font-size: 1.0em;
 	width: auto;
-	opacity: 0.8;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
@@ -31,16 +29,15 @@ body {
 
 #layout-menu td {
 	background: #f4f4f4;
-	vertical-align: top;
+    vertical-align: top;
 }
 
 #layout-content {
-	padding-top: 2.0em;
+	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
-	background: #f6f6f6;
-	opacity: 0.95;
     border: none;
+    background: white;
     text-align: left;
     vertical-align: top;
 }
