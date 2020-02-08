@@ -6,7 +6,7 @@ table#tlayout {
 	padding-left: 20%;
 	border-collapse: separate;
 	height: 1000px;
-	width: 2000px;
+	/* max-width: 2000px; */
     /* background: white; */
 }
 
