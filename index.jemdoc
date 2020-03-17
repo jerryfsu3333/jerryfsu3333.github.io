@@ -26,10 +26,6 @@ His research interests include
 - High-dimensional statistics.
 - Tensor data analysis.
 
-# [research.html Find out more].
-
-# == Recent Publications 
-# . Zeng, J., Wang, W. and Zhang, X. \"TRES: an R package for tensor regression\". Journal of Statistical Software (Under Revision).
-
-#[publications.html Full list of publications].
-# [cv.pdf A brief cv].
+== Current projects
+. Generalized liquid association analysis.
+. Low-rank linear discriminant analysis with simultaneously variable selection.
