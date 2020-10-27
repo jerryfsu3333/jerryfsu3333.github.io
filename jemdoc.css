@@ -2,13 +2,14 @@
 
 table#tlayout {
 	border: none;
-	padding-right: 5%;
-	padding-left: 5%;
+	/* padding-right: 5%;
+	padding-left: 5%; */
 	border-collapse: separate;
 	/* height: 1000px; */
-	/* width: 1024px; */
-	/* max-width: 2000px; */
-    /* background: white; */
+	width: 1200px; 
+	/* min-width: 1000px;
+	max-width: 1500px;
+        background: white; */
 }
 
 tbody{
@@ -16,7 +17,7 @@ tbody{
 }
 
 body {
-	/* background: #f6f6f6; */
+	/* background: #f6f6f6;*/
 	background-image: url("photos/bg4.jpg");
 	background-attachment: fixed;
 	background-position: center;
@@ -33,16 +34,12 @@ body {
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: auto;
+	/* width: auto; */
 	opacity: 0.7;
+ 	width: 100px;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
-}
-
-#layout-menu td {
-	background: #f4f4f4;
-	vertical-align: top;
 }
 
 #layout-content {
@@ -58,10 +55,7 @@ body {
 
 #layout-menu a {
 	line-height: 1.5em;
-	margin-left: 0.5em;
-}
-
-tt {
+	margin-left: 0.5em; } tt {
     background: #ffffdd;
 }
 
