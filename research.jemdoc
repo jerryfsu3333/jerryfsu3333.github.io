@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+
+== Publications
+. Zeng, J., Wang, W. and Zhang, X. (2020+). TRES: An R Package for Tensor Regression and Envelope Algorithms. /Journal of Statistical Software/, accepted.
+
+== Under revision
+. Zeng, J., Zhang, X. and Mai, Q. (2021). An Efficient Convex Formulation for Reduced-Rank Linear Discriminant Analysis in High Dimensions.
+
+== Under review
+. Li, L., Zeng, J. and Zhang, X. (2020). Generalized Liquid Association Analysis for Multimodal Data Integration.
+. Zeng, J., Mai, Q. and Zhang, X. (2020). Subspace Estimation with Automatic Dimension and Variable Selection in Sufficient Dimension Reduction.

@@ -1,10 +1,9 @@
 # jemdoc: menu{MENU}{courses.html}, nofooter  
-== Courses
 
-=== Solo Instructor
+== Solo Instructor
 - STA 2122 -- Introduction to Applied Statistics (Summer 2018, Fall 2018, Spring 2019)
 
-=== Grader
+== Grader
 - STA 2122 -- Introduction to Applied Statistics (Spring 2018, Fall 2020)
 - STA 5934-0001 -- Tensor Data Analysis (Spring 2020)
 - STA 5934-0002 -- Deep Learning (Spring 2020)
